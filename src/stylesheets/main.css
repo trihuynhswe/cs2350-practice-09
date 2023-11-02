@@ -1,3 +1,7 @@
 /* Your styles go here */
 @import url("bootstrap/dist/css/bootstrap.min.css");
 @import url("bootstrap-icons/font/bootstrap-icons.css");
+
+body{
+    padding: 0 200px;
+}
